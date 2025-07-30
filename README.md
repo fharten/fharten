@@ -1,11 +1,13 @@
 ## Hey there
+
 ### I'm Florian — a frontend developer based in Hamburg.
 
-- I enjoy building things with **JavaScript**, **TypeScript**, and **Next.js**
-- Currently deepening my skills in **React**, **Next.js**, and REST APIs
-- Attending the Advanced Web Development Bootcamp at [neue fische](https://www.neuefische.de/)
+- [x] I enjoy building things with **JavaScript**, **TypeScript**, and **Next.js**
+- [x] Currently deepening my skills in **React**, **Next.js**, and REST APIs
+- [x] Attending the Advanced Web Development Bootcamp at [neue fische](https://www.neuefische.de/)
 
 ## Tech Stack
+
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
@@ -25,7 +27,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## Get in touch
-<a href="https://www.linkedin.com/in/florian-harten/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+## Contact
 
+<a href="https://www.linkedin.com/in/florian-harten/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:florian.harten@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
