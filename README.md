@@ -15,15 +15,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <br/>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Auth-6C47FF?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth Badge" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="API Development Badge" />
-</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Auth-6C47FF?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth Badge" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="API Development Badge" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-0070BB?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
@@ -32,10 +26,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## Get in touch
-<a href="https://www.linkedin.com/in/florian-harten/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<a href="https://www.linkedin.com/in/florian-harten/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-<a href="mailto:florian.harten@proton.me" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
-</a>
+<a href="mailto:florian.harten@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
