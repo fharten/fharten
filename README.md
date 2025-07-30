@@ -32,5 +32,10 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ## Get in touch
-<a href="https://www.linkedin.com/in/florian-harten/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:florian.harten@proton.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florian-harten/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="mailto:florian.harten@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
+</a>
