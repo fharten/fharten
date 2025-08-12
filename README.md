@@ -32,6 +32,5 @@
 <a href="https://www.linkedin.com/in/florian-harten/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:florian.harten@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
 <a href="https://florian-harten.de" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://www.florian-harten.de/favicon.ico" alt="Site Logo" style="width: 24px; height: 24px; margin-right: 8px;">
   <img src="https://img.shields.io/badge/florian--harten.de-f0f0f0?style=for-the-badge&logoColor=white&labelColor=333333" alt="Website Badge"/>
 </a>
